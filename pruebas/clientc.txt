@@ -1,0 +1,6 @@
+insert  0  blaholablamundobla
+delete  0  3
+delete  4  7
+delete -4 -1
+space   4  
+print
